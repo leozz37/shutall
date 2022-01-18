@@ -2,7 +2,11 @@
 
 <img align="right" width="159px" src="./resources/mascot.png">
 
-
+[![Go](https://github.com/leozz37/shutall/actions/workflows/go.yaml/badge.svg)](https://github.com/leozz37/shutall/actions/workflows/go.yaml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/leozz37/shutall)](https://goreportcard.com/report/github.com/leozz37/shutall)
+[![GoDoc](https://pkg.go.dev/badge/github.com/leozz37/shutall?status.svg)](https://pkg.go.dev/github.com/leozz37/shutall?tab=doc)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/leozz37/shutall)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Shutall is a graceful shutdown package that makes your code short and functional, dealing with any kind of interruption from OS and works with all the major web frameworks.
 
