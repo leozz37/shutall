@@ -8,7 +8,7 @@
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/leozz37/shutall)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Shutall is a graceful shutdown package that makes your code short and functional, dealing with any kind of interruption from OS and works with all the major web frameworks.
+Shutall is a simple graceful shutdown package that makes your code short, that deals with interruptions from OS and works with all the major web frameworks.
 
 ## Contents
 
