@@ -1,8 +1,10 @@
 # Shutall
 
-Shutall is a graceful shutdown package that makes your code short and functional, dealing with any kind of interruption from OS and works with all the major web frameworks.
+<img align="right" width="159px" src="./resources/mascot.png">
 
-![mascot](./resources/mascot.png)
+
+
+Shutall is a graceful shutdown package that makes your code short and functional, dealing with any kind of interruption from OS and works with all the major web frameworks.
 
 ## Examples
 
