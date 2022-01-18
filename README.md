@@ -1,0 +1,2 @@
+# shutall
+🛑 Graceful shutdown anything
