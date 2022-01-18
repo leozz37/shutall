@@ -1,6 +1,6 @@
 # Shutall
 
-<img align="right" width="159px" src="./resources/mascot.png">
+<img align="right" width="280px" src="./resources/mascot.png">
 
 [![Go](https://github.com/leozz37/shutall/actions/workflows/go.yaml/badge.svg)](https://github.com/leozz37/shutall/actions/workflows/go.yaml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/leozz37/shutall)](https://goreportcard.com/report/github.com/leozz37/shutall)
