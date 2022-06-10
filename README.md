@@ -155,7 +155,17 @@ func main() {
 
 ## Testing
 
-Tests are not implemented yet
+To run tests suite, run the following:
+
+```shell
+$ make test
+```
+
+To run the tests with coverage, run the following:
+
+```shell
+$ make test-coverage
+```
 
 ## License
 
